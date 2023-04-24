@@ -1,0 +1,211 @@
+MaKH;name
+0;hkd nguyen van toan
+1;hkd le van loc
+2;malaysia exported labors
+3;hkd nguyen thi hien
+4;trung tam dich vu dau gia tai san
+5;hkd le trong thiet
+6;hkd ca men
+7;cong doan huynh
+8;quy chi doan dong nai
+9;trung tam thiet bi pccc ba dinh
+10;hkd do thi xuan
+11;hkd nguyen thi nhu quynh
+12;dich vu thuong mai minh phat
+13;trung tam dau tu tai chinh vie
+14;pham mai thanh binh hkd
+15;hkd tuyet
+16;db dai ly nu hoang
+17;hkd ho thi ngoc huyen
+18;trung quoc trung y mon chan
+19;db dang anh
+20;trien duoc lieu kim ngoc
+21;db pham the oai
+22;hkd bang tam
+23;diem ban my hien
+24;db hoang thi vui
+25;tap hoa thien phuc
+26;tap hoa pham
+27;diem ban thi dien
+28;diem ban thanh bui
+29;diem ban quang khai
+30;db nguyen thi kim tuyen
+31;tap hoa nguyen thi nga
+32;xuan trung mobile
+33;db nha huong
+34;db quyen tuong phan thi quyen
+35;db  ngoc huu
+36;kim thi co sonl
+37;db hoang linh
+38;co so quy nguyen
+39;db binh quan
+40;db hoang phat
+41;db trong tin
+42;db nam tiem giang binh long
+43;chth doan nga nguyen trong doan
+44;db thanh duoc
+45;diem ban van ut
+46;db gi due
+47;dinh van thanh
+48;ho thi minh
+49;tap hoa nguyen thi ngoc
+50;db tuan yen vo quoc tuan
+51;dbtc  tiem dien phuoc thanh
+52;db co hong
+53;db hung thien nguyen thanh nghia
+54;ht mobile nguyen thanh tri
+55;tap hoa nguyen thi hoa
+56;diem ban hoang duc thang
+57;diem ban sim the gi hong le thi
+58;tap hoa hong van
+59;duong thi quynh nga
+60;db sim card my kieu
+61;son chan co sol
+62;db kit  diem ban tan hanh phuc
+63;tap hoa nguyen van hung
+64;tap hoa ngoc toan
+65;tap hoa co thi
+66;db truong tan hung
+67;db nguyen trinh anh tuan
+68;db chi que
+69;db thanh an
+70;chth nguyen cao trung
+71;chth long trung
+72;diem ban thi thiet
+73;diem ban duong thi lieu
+74;db nguyen thi thuy
+75;diem ban sim card vien
+76;db nguyen van bac lan ls
+77;diem ban thu tuu
+78;chth tran thi my hanh
+79;chth nguyen xuan hieu
+80;db chien loan cung thuong
+81;chth nguyen thi hang hanh phuoc
+82;diem chuyen tien van huy
+83;ho ca the th mart
+84;hkd ca the phan thi lan
+85;khach san hoang gia
+86;khkt nguyen hoang
+87;dn doan thi linh
+88;diem giao dich thi tran
+89;cau lac bo than ve nu
+90;dk pham trong duan
+91;chth gas thanh nguyet vo van nguyen
+92;son sam uone
+93;cong doan hong ngoc
+94;hkd quan nhau san vuon song que
+95;hkd ca the vinh nam
+96;db xuan quy
+97;khach san hoa lan
+98;db phan van tu
+99;vpp ha phuong nguyen ngoc binh
+100;hkd pham trung kien
+101;diemgiaodich viettel xa nghia hung
+102;diem giao dich xa quang xuan
+103;ha noi
+104;dich vu truyen hinh ngoc vu
+105;hkd ca the pham thi my
+106;trung tam thiet bi phuong mai linh
+107;hkd nguyen thi kim huong
+108;hkd vu thi hai linh
+109;hkd luu thi thu hien
+110;cua hang van son
+111;ho kd tuong linh
+112;tap hoa binh lam
+113;dai ly mobile hong mai
+114;hkd thanh ha
+115;tap hoa le van minh
+116;hkd tran xuan thuyet
+117;hkd nguyen tien tung
+118;mam non vuong quoc tre tho
+119;hkd duong van thuyen
+120;hkd vpp thiet bi vp tkt
+121;hkd hoang anh
+122;THANH BINH EXPRESS
+123;HHF VINA
+124;HP REAL ESTATE
+125;RUBY CAR
+126;CONG TY CO PHAN KHAI SANG
+127;THE FIELD
+128;PHU QUOC COUNTRYSIDE GARDEN
+129;BAN QUAN LY KHU BAO TON THIEN NHIEN
+130;AQUATECH EQUIPMENT TECHNOLOGY SOLUT
+131;MTV WINE PLAZA VIET NAM
+132;TRUONG MAM NON SEN VANG
+133;ARAB FINANCE HOUSE
+134;VAN DESIGN
+135;AN NAM PHAT FURNITURE
+136;VAT TU NGANH NUOC MIEN BAC
+137;TRUONG MAU GIAO SAO MAI
+138;DHP LAND
+139;TC PHARMA
+140;KARAOKE RUBY
+141;TP HO CHI MINH
+142;STC VIET NAM CATERING SERVICES
+143;PL AND PARTNERS
+144;BEETIFY VN
+145;DUC HUNG TRANSPORT SERVICES
+146;VA TRUYEN THONG
+147;MIC BINH DINH
+148;MINH QUANG MEKONG
+149;SINACO CHEMICAL
+150;CHO BO SUNG
+151;AMY GIA HAN
+152;NHU Y TRANSPORTATION
+153;EVEREST LAW FIRM
+154;MINH VINH ICD
+155;APPE AC
+156;SAVAS MERMER
+157;IMAGE HANH PHUC
+158;AURORA DIGITAL MEDIA
+159;COMMERZBANK AG THE BRUSSELS BRANCH
+160;KT CONCEPT
+161;NAVICO LAW FIRM
+162;HE THONG SUA HAO HIEP
+163;YEN NHA BONG
+164;ASIA MORTAR
+165;NHA XE SON LAM
+166;AC PHU NGHIA
+167;MINH KIM TECH
+168;TRUNG TAM THONG TIN
+169;PLAY CITY
+170;XAY DUNG HOANG LOC
+171;SOUTHERN QUARTZ LLC
+172;REDO EARTH
+173;LASAVI THAI NGUYEN
+174;TMC GLASS
+175;O HOME REAL ESTATE BUSINESS
+176;IES SOLAR
+177;VIET CLOUD
+178;DAI TIN PHAT ICC
+179;AN KHANG ST
+180;RONG MEKONG
+181;MAI FUJI
+182;EDU HUB VIETNAM LLC
+183;MAI DICH VU XAY DUNG HAI ANH
+184;MVOT DISTRIBUTION
+185;GTEL TIS
+186;SAO PHUONG BAC
+187;DK FOOD SERVICE
+188;BANQUE CANTONALE DE GENEVE GENEVA
+189;BACH DUONG TRAVEL
+190;KIM MY INTRACOM
+191;A SOLUTION
+192;HOAN TRIEU TRANSPORT TOURIST
+193;SIAULIU BANKAS AB
+194;HSBC HANOI
+195;NAM DINH WATERWAY MATERIALS EQUIPME
+196;VALI TRAVEL
+197;AZ ENTERTAINMENT
+198;PINETREE SECURITES
+199;TANHUNG IND
+200;SPIRE PROPERTY
+201;COMMERZBANK BELGIUM BRUSSELS
+202;LIBRA AUTO
+203;BINH MINH TST
+204;ROYAL SERVICES CORP
+205;LHP INTL TLD
+206;ELEVEN P
+207;SPACE TIME
+208;CM TRANSPORT  TOURISM SERVICES
+209;MEDIA WIN
